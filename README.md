@@ -7,3 +7,4 @@ Shell Script
 
 > - **Docker installation script**
 > - **MongoDB installation script** 
+> - **NGINX installation script**
